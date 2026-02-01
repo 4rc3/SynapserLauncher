@@ -1,6 +1,7 @@
 {
-  "version": "1.0.1.0",
+  "version": "1.0.2.0",
   "notes": [
-        "• Added EsayUpdate App"
+        "• Fixed the UAC message everytime a app in EasyUpdate program wants to update (Hopefully).",
+		"• You get the message when you launch the EasyUpdate. On my list to fix."
   ]
 }
