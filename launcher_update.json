@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2.0",
+  "version": "1.0.3.0",
   "notes": [
-        "• Fixed the UAC message everytime a app in EasyUpdate program wants to update (Hopefully).",
-		"• You get the message when you launch the EasyUpdate. On my list to fix."
+        "• Fixed a issue where the user was able to open many instances of the same app",
+		"• Added a Stop function when a app is running."
   ]
 }
