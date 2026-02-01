@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3.0",
+  "version": "1.0.4.0",
   "notes": [
-        "• Fixed a issue where the user was able to open many instances of the same app",
-		"• Added a Stop function when a app is running."
+        "• Added support for Easy Backup",
+		"• Minor label errors fixed."
   ]
 }
