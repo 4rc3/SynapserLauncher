@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4.0",
+  "version": "1.0.5.0",
   "notes": [
-        "• Added support for Easy Backup",
-		"• Minor label errors fixed."
+        "• Added a button for reporting bugs / adding suggestions."
+		
   ]
 }
