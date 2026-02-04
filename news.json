@@ -1,14 +1,14 @@
 [
     {
-    "title": "Welcome to Flura",
+    "title": "Welcome to Blaze",
     "date": "04-02-2026",
-    "content": "Welcome to Flura, an Evelution of Synapser! We're excited to have you on board as we embark on this new journey together. Flura is designed to enhance your experience with improved features and a fresh interface. Stay tuned for more updates and enjoy exploring all that Flura has to offer!"
+    "content": "Welcome to Blaze, an evolution of Synapser! We're excited to have you on board as we embark on this new journey together. Blaze is designed to enhance your experience with improved features and a fresh interface. Stay tuned for more updates and enjoy exploring all that Blaze has to offer!"
    
   },
 
   {
     "title": "Update 1.1.0.0 Released",
     "date": "04-02-2026",
-    "content": "Update 1.1.0.0 is now available! This update includes a revamped user interface for better usability, a new news section to keep you informed about updates and features, and an indicator to show when an update is available for each application. We've also added a Latest Update section per application to showcase recent changes, and a button to join our Discord server for support and community interaction. Additionally, we've changed the Channel Environment and launch button position for a stacked layout, and fixed an issue where the dropdown menu for selecting the application environment would not remember the last selected option. Enjoy the new features and improvements!"
+    "content": "Update 1.1.0.0 is now available!"
   }
 ]
