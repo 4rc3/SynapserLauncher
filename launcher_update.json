@@ -1,7 +1,13 @@
 {
-  "version": "1.0.5.0",
+  "version": "1.1.0.0",
   "notes": [
-        "• Added a button for reporting bugs / adding suggestions."
-		
+        "• Renamed from Synapser to Blaze Launcher.",
+        "• Revamped the user interface for better usability.",
+        "• Added a news section to keep users informed about updates and features.",
+        "• Added a indicator to show when an update is available, per application.",        
+        "• Added a Latest Update section per application to show recent changes.",
+        "• Added a button to join our Discord server for support and community interaction.",
+        "• Changed the Channel Environment and the launch button position for a stacked layout.",        
+        "• Fixed a issue where the dropdown menu for selecting the application environment would not remember the last selected option."		
   ]
 }
