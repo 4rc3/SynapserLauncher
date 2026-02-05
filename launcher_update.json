@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0.2",
+  "version": "1.2.0.3",
   "notes": [
         "• Restructured the content code, allowing hot-changes and adding new features without needing to update the launcher every time!",
         "• Added a notification to News section, when news is updated, as well as news entrys.",
