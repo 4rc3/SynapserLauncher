@@ -1,0 +1,24 @@
+[
+  {
+    "Name": "Easy Backup",
+    "Description": "Automated backup tool with versioning support.",
+    "ImageUrl": "https://raw.githubusercontent.com/4rc3/BackupTool/main/Images/backup_hero.jpg",
+    "ExeName": "EasyBackup.exe",
+    "LiveVersionUrl": "https://raw.githubusercontent.com/4rc3/EasyBackup_Live/main/version_live.json",
+    "LiveDownloadUrl": "https://github.com/4rc3/EasyBackup_Live/releases/download/v1.0/EasyBackup.exe",
+    "BetaVersionUrl": "https://raw.githubusercontent.com/4rc3/BackupTool/main/version_beta.json",
+    "BetaDownloadUrl": "https://github.com/4rc3/BackupTool/releases/download/beta/BackupTool.exe",
+    "RequiresAdmin": false
+  },
+  {
+    "Name": "Easy Update",
+    "Description": "Update all your apps in one click.",
+    "ImageUrl": "https://raw.githubusercontent.com/YOUR_REPO/main/Images/updater_hero.jpg",
+    "ExeName": "EasyUpdate.exe",
+    "LiveVersionUrl": "https://raw.githubusercontent.com/4rc3/EasyUpdate_Live/refs/heads/main/version_live.json",
+    "LiveDownloadUrl": "https://github.com/4rc3/EasyUpdate_Live/releases/download/Update_Live/EasyUpdate.exe",
+    "BetaVersionUrl": "",
+    "BetaDownloadUrl": "",
+    "RequiresAdmin": true
+  }
+]
