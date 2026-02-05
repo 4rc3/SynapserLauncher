@@ -20,5 +20,17 @@
     "BetaVersionUrl": "https://raw.githubusercontent.com/4rc3/EasyUpdate_Beta/refs/heads/main/version_beta.json",
     "BetaDownloadUrl": "https://github.com/4rc3/EasyUpdate_Beta/releases/download/EasyUpdateBeta/EasyUpdate.exe",
     "RequiresAdmin": true
+  },
+
+  {
+    "Name": "Easy Something",
+    "Description": "Update all your apps with one click.",
+    "ImageUrl": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/Images/updater.jpg",
+    "ExeName": "EasyUpdate.exe",
+    "LiveVersionUrl": "https://raw.githubusercontent.com/4rc3/EasyUpdate_Live/refs/heads/main/version_live.json",
+    "LiveDownloadUrl": "https://github.com/4rc3/EasyUpdate_Live/releases/download/Update_Live/EasyUpdate.exe",
+    "BetaVersionUrl": "https://raw.githubusercontent.com/4rc3/EasyUpdate_Beta/refs/heads/main/version_beta.json",
+    "BetaDownloadUrl": "https://github.com/4rc3/EasyUpdate_Beta/releases/download/EasyUpdateBeta/EasyUpdate.exe",
+    "RequiresAdmin": true
   }
 ]
