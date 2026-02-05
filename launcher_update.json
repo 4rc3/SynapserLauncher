@@ -1,7 +1,10 @@
 {
-  "version": "1.1.0.1",
+  "version": "1.2.0.2",
   "notes": [
-        "• Minor label issue fixed."
+        "• Restructured the content code, allowing hot-changes and adding new features without needing to update the launcher every time!",
+        "• Added a notification to News section, when news is updated, as well as news entrys.",
+        "• Added a discord logo, rather than just the text to join server.",
+        "• Updated the UI of the Update Available"
         		
   ]
 }
