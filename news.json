@@ -4,19 +4,19 @@
     "date": "04-02-2026",
     "content": "Welcome to Blaze, an evolution of Synapser! We're excited to have you on board as we embark on this new journey together. Blaze is designed to enhance your experience with improved features and a fresh interface. Stay tuned for more updates and enjoy exploring all that Blaze has to offer!"
    
-  },
-
-  {
-    "title": "Update 1.1.0.0 Released",
-    "date": "04-02-2026",
-    "content": "v1.1.0.0 of the Blaze Launcher has been released!"
-   
-  },
+  }, 
 
   {
     "title": "v1.2.0.0 Update",
     "date": "05-02-2026",
     "content": "The next major update for Blaze is coming along nicely. There is a ton of under the hood improvements, as well as some new features. Stay tuned for more details!"
+   
+  },
+
+  {
+    "title": "v1.2.0.0 Feature Complete",
+    "date": "05-02-2026 13:29",
+    "content": "The next major update for Blaze is now feature complete! It has now entered the polishing phase."
    
   }
 ]
