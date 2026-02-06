@@ -2,7 +2,7 @@
   {
     "Name": "Dummy Game",
     "Description": "Test Game",
-    "ImageUrl": "https://github.com/4rc3/SynapserLauncher/blob/main/TestBG.jpg",
+    "ImageUrl": "https://github.com/4rc3/SynapserLauncher/main/TestBG.jpg",
     "BackdropUrl": "https://raw.githubusercontent.com/4rc3/SynapserLauncher/main/TestBG.jpg",
     "ExeName": "EasyBackup.exe",
     "LiveVersionUrl": "https://raw.githubusercontent.com/4rc3/EasyBackup_Live/refs/heads/main/version_live.json",
