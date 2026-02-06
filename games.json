@@ -2,8 +2,8 @@
   {
     "Name": "Dummy Game",
     "Description": "Test Game",
-    "ImageUrl": "https://github.com/4rc3/SynapserLauncher/main/TestBG.jpg",
-    "BackdropUrl": "https://raw.githubusercontent.com/4rc3/SynapserLauncher/main/TestBG.jpg",
+    "ImageUrl": "https://raw.githubusercontent.com/4rc3/SynapserLauncher/main/GenericBGOp.png",
+    "BackdropUrl": "https://raw.githubusercontent.com/4rc3/SynapserLauncher/main/GenericBGOp.png",
     "ExeName": "EasyBackup.exe",
     "LiveVersionUrl": "https://raw.githubusercontent.com/4rc3/EasyBackup_Live/refs/heads/main/version_live.json",
     "LiveDownloadUrl": "https://github.com/4rc3/EasyBackup_Live/releases/download/EasyBackup_Live/EasyBackup.exe",
