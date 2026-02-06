@@ -12,8 +12,8 @@
     "RequiresAdmin": false
   },
   {
-    "Name": "Dunny Game 2",
-    "Description": "Dunny Game 2",
+    "Name": "Dummy Game 2",
+    "Description": "Dummy Game 2",
     "ImageUrl": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/Images/updater.jpg",
     "ExeName": "EasyUpdate.exe",
     "LiveVersionUrl": "https://raw.githubusercontent.com/4rc3/EasyUpdate_Live/refs/heads/main/version_live.json",
