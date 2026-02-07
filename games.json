@@ -1,12 +1,12 @@
 [
   {
-    "Name": "Dummy Game",
+    "Name": "Test Game UE5",
     "Description": "Test Game",
     "ImageUrl": "https://raw.githubusercontent.com/4rc3/SynapserLauncher/main/GenericBGOp.png",
     "BackdropUrl": "https://raw.githubusercontent.com/4rc3/SynapserLauncher/main/GenericBGOp.png",
-    "ExeName": "EasyBackup.exe",
+    "ExeName": "TestProject.exe",
     "LiveVersionUrl": "https://raw.githubusercontent.com/4rc3/EasyBackup_Live/refs/heads/main/version_live.json",
-    "LiveDownloadUrl": "https://github.com/4rc3/EasyBackup_Live/releases/download/EasyBackup_Live/EasyBackup.exe",
+    "LiveDownloadUrl": "\\\\MAGNUSSERVERPC\\Shared\\Games\\TestProject.zip",
     "BetaVersionUrl": "https://raw.githubusercontent.com/4rc3/EasyBackup_Live/refs/heads/main/version_beta.json",
     "BetaDownloadUrl": "https://github.com/4rc3/BackupTool/releases/download/backup/BackupTool.exe",
     "RequiresAdmin": false
