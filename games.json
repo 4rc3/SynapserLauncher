@@ -6,7 +6,7 @@
     "BackdropUrl": "https://raw.githubusercontent.com/4rc3/SynapserLauncher/main/GenericBGOp.png",
     "ExeName": "TestProject.exe",
     "LiveVersionUrl": "https://raw.githubusercontent.com/4rc3/Games/refs/heads/main/version.json",
-    "LiveDownloadUrl": "https://download.magnus-games.org/Games/TestProject.zip",
+    "LiveDownloadUrl": "https://download.magnus-games.org/Games/TestProjectv1.0.1.0.zip",
     "BetaVersionUrl": "https://raw.githubusercontent.com/4rc3/EasyBackup_Live/refs/heads/main/version_beta.json",
     "BetaDownloadUrl": "https://github.com/4rc3/BackupTool/releases/download/backup/BackupTool.exe",
     "RequiresAdmin": false
