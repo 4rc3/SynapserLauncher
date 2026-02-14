@@ -1,19 +1,7 @@
 {
-  "version": "2.1.0.1",
+  "version": "2.1.0.2",
   "notes": [
-        "• v2.0.0.0:",
-        "• Brand new UI, with a more modern and sleek design.",
-        "• Added themes, allowing users to customize the look of the launcher, as well as creating their own themes.",
-        "• Games has finally been added to the launcher.",
-        "• Apps and Games now have their own separate sections in the launcher.",
-        "• Numerous bug fixes and improvements.",
-        "• ---------------------------",
-        "• v2.1.0.0:",
-        "• Added Achievements. Track your progress and accomplishments within the launcher and earn Blaze Points (BP).",
-        "• Added Emblems. Customize your launcher further by adding emblems to your launcher (unlocked via BP points or achievements).",
-        "• Added Premium Themes, which can be unlocked by spending BP points.",
-        "• Fixed a issue where the launcher would forget that a app or game was launched, resetting its stage.",
-        "• Fixed a issue where the custom themes created in My Studio would not persist through Blase updates."
+        "• Fixed a issue where emblems would not show."       
         		
   ]
 }
