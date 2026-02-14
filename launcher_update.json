@@ -1,10 +1,19 @@
 {
-  "version": "1.2.0.3",
+  "version": "2.1.0.0",
   "notes": [
-        "• Restructured the content code, allowing hot-changes and adding new features without needing to update the launcher every time!",
-        "• Added a notification to News section, when news is updated, as well as news entrys.",
-        "• Added a discord logo, rather than just the text to join server.",
-        "• Updated the UI of the Update Available"
+        "• v2.0.0.0:",
+        "• Brand new UI, with a more modern and sleek design.",
+        "• Added themes, allowing users to customize the look of the launcher, as well as creating their own themes.",
+        "• Games has finally been added to the launcher.",
+        "• Apps and Games now have their own separate sections in the launcher.",
+        "• Numerous bug fixes and improvements.",
+        "• ---------------------------",
+        "• v2.1.0.0:",
+        "• Added Achievements. Track your progress and accomplishments within the launcher and earn Blaze Points (BP).",
+        "• Added Emblems. Customize your launcher further by adding emblems to your launcher (unlocked via BP points or achievements).",
+        "• Added Premium Themes, which can be unlocked by spending BP points.",
+        "• Fixed a issue where the launcher would forget that a app or game was launched, resetting its stage.",
+        "• Fixed a issue where the custom themes created in My Studio would not persist through Blase updates."
         		
   ]
 }
