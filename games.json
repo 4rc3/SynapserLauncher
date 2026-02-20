@@ -9,6 +9,7 @@
     "LiveDownloadUrl": "https://download.magnus-games.org/Games/TestProjectv1.0.1.0.zip",
     "BetaVersionUrl": "https://raw.githubusercontent.com/4rc3/EasyBackup_Live/refs/heads/main/version_beta.json",
     "BetaDownloadUrl": "https://github.com/4rc3/BackupTool/releases/download/backup/BackupTool.exe",
+    "AppNewsUrl": "https://raw.githubusercontent.com/4rc3/DummyGame/refs/heads/main/DummyGame.json",
     "RequiresAdmin": false
   },
   {
