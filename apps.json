@@ -20,5 +20,17 @@
     "BetaVersionUrl": "https://raw.githubusercontent.com/4rc3/EasyUpdate_Beta/refs/heads/main/version_beta.json",
     "BetaDownloadUrl": "https://github.com/4rc3/EasyUpdate_Beta/releases/download/EasyUpdateBeta/EasyUpdate.exe",
     "RequiresAdmin": true
+  },
+
+  {
+    "Name": "Easy Vault",
+    "Description": "Securely store and manage your sensitive data.",
+    "ImageUrl": "https://raw.githubusercontent.com/4rc3/EasyVault_Live/main/EasyVaultImage.jpeg",
+    "BackdropUrl": "https://raw.githubusercontent.com/4rc3/EasyVault_Live/main/EasyVaultImage.jpeg",
+    "ExeName": "EasyVault.exe",
+    "LiveVersionUrl": "https://raw.githubusercontent.com/4rc3/EasyVault_Live/refs/heads/main/version_live.json",
+    "LiveDownloadUrl": "https://github.com/4rc3/EasyVault_Live/releases/download/EasyVaultLive/EasyVault.exe",
+    "BetaVersionUrl": "https://raw.githubusercontent.com/4rc3/EasyVault_Beta/refs/heads/main/version_beta.json",    
+    "RequiresAdmin": false
   }
 ]

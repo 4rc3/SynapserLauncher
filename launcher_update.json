@@ -1,7 +1,20 @@
 {
-  "version": "2.1.0.2",
+  "version": "2.1.5.0",
   "notes": [
-        "• Fixed a issue where emblems would not show."       
+        "• Removed App Category.",
+        "• Removed Games Category.",
+        "• Added a Library Category.",
+        "• Added a Play Time",
+        "• Added a Last played date.",
+        "• Balanced the BP point cost/reward. Now everything is unlockable with BP's to spare",
+        "• Toned down and made some adjustments to the button brightness, to make all readable.",
+        "• Changed the achievement timer from 4 seconds to 8 seconds.",
+        "• Drastically reduced the amount of flickering happening on buttons and some text.",
+        "• Fixed a bug where the vertical scrollbar was inside the content frame.",
+        "• Fixed a bug were the user could submit a bug report without selecing occurrence.",
+        "• Fixed a bug were the user had issues with typing inside the Hex Code box when creating new colors.",
+        "• Fixed a bug were the user would be stuck on Wait when downloading multiple applications at once.",
+        "• Fixed a bug were the user could not uninstall a app, while it was opened."       
         		
   ]
 }
