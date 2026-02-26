@@ -1,34 +1,27 @@
 [
-    {
+  {
     "title": "Welcome to Blaze",
     "date": "04-02-2026",
     "content": "Welcome to Blaze, an evolution of Synapser! We're excited to have you on board as we embark on this new journey together. Blaze is designed to enhance your experience with improved features and a fresh interface. Stay tuned for more updates and enjoy exploring all that Blaze has to offer!"
-   
-  },   
-
+  },
   {
     "title": "v2.1.0.0 Released!",
     "date": "14-02-2026 20:34",
     "content": "The first major update for the v2 is here!"
-   
-  },  
-
+  },
   {
     "title": "New Easy App coming real soon!",
     "date": "22-02-2026 00:04",
     "content": "We're excited to announce a new app in the Easy family is coming real soon!"
-   
   },
-
   {
     "title": "v2.1.5.0 Soon ready for release!",
     "date": "22-02-2026 00:06",
     "content": "We're happy to announce that the v2.1.5.0 update is soon ready for release! This update includes a variety of bug fixes, and a refined UI in certain parts of the app."
-   
+  },
+  {
+    "title": "Test",
+    "date": "26-02-2026 21:23",
+    "content": "This is a test"
   }
-
-  
-  
-
-  
 ]
